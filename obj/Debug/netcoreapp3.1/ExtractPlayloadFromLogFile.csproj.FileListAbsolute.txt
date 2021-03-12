@@ -1,0 +1,13 @@
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\bin\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.exe
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\bin\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.deps.json
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\bin\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.runtimeconfig.json
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\bin\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.runtimeconfig.dev.json
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\bin\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.dll
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\bin\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.pdb
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\obj\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.csprojAssemblyReference.cache
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\obj\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.AssemblyInfoInputs.cache
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\obj\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.AssemblyInfo.cs
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\obj\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.csproj.CoreCompileInputs.cache
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\obj\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.dll
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\obj\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.pdb
+C:\Users\snira\source\repos\ExtractPlayloadFromLogFile\obj\Debug\netcoreapp3.1\ExtractPlayloadFromLogFile.genruntimeconfig.cache
